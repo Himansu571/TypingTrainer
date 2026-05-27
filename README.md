@@ -1,6 +1,6 @@
-# 🚀 SwiftType - Typing Trainer Web App
+# 🚀 TypingTrainer - Typing Trainer Web App
 
-SwiftType is a modern and interactive Typing Trainer Web Application designed to improve typing speed, accuracy, and keyboard efficiency through real-time practice and performance tracking.
+TypingTrainer is a modern and interactive  Web Application designed to improve typing speed, accuracy, and keyboard efficiency through real-time practice and performance tracking.
 
 ## ✨ Features
 - ⚡ Real-time WPM Calculation
